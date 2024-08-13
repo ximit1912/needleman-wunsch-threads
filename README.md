@@ -16,6 +16,7 @@ O algoritmo consiste de um menu com 10 opções que incluem:
 
 
 Recomendações: na opção 5 ler sequencias, caso o usuário escolha ler as sequencias por arquivo (<3>) é necessário que o 
-arquivo contenha o apenas 2 linhas, na 1° a sequencia maior e na 2° a sequencia menor dessa forma, por exemplo: ATCGATCG  
-                                                                                                                ATCGAT
+arquivo contenha o apenas 2 linhas, na 1° a sequencia maior e na 2° a sequencia menor dessa forma, por exemplo: 
+ATCGATCG  
+ATCGAT
                                                                                                                 
