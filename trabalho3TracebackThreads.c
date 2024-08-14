@@ -32,17 +32,6 @@ int  seqMaior[maxSeq]={A,A,C,T,T,A},
      seqMenor[maxSeq]={A,C,T,T,G,A};
 
 
-/* alinhaGMaior representava a sequencia maior ja alinhada, assim como alinhaGMenor,
-   ambas obtidas no traceback. As duas juntas, pareadas, formam o alinhamento
-   global. Tal alinhamento global pode ser obtido de duas formas: a partir do
-   primeiro maior escore ou a partir do ultimo maior escore 
-
-    int  alinhaGMaior[maxSeq],
-         alinhaGMenor[maxSeq];  
-*/
-/////////////////////////////////////////////////////////////////////////////
-
-
 
 
 /***** VARIÁVEIS GLOBAIS *****/
@@ -57,7 +46,7 @@ int tamSeqMaior=6,  /* tamanho da sequencia maior, inicializado como 6 */
                                 pois k threads irão preencher as linhas da matriz de escore de
                                 forma igualmente distribuídas, além de que farão o alinhamento/traceback
                                 da seqMenor na maior */
-    tamAlinha[maxThreads];      /* tamanho do alinhamento global obtido */
+    tamAlinha[maxThreads];      /* tamanho do alinhamento global + parciais obtido */
 /////////////////////////////////////////////////////////////////////////////
 
 
