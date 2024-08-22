@@ -1,0 +1,31 @@
+[33mcommit 3030f05c78da85d024688adffabf6577d6d26c77[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vinicius Schmitz <viniciusschmitzwork@gmail.com>
+Date:   Tue Aug 13 14:55:29 2024 -0300
+
+    3° Versão: Fazer traceback com threads implementado e arquivos.txt commitados
+
+[33mcommit e3841d882bbe23c9af897d149408801eae070c21[m
+Author: Vinicius Schmitz <viniciusschmitzwork@gmail.com>
+Date:   Tue Aug 13 14:53:37 2024 -0300
+
+    2° versão: Preencher matriz de escores com threads e gravar em arquivo implementados
+
+[33mcommit 792cb7c62e4bf88ca0f491050cb684124b819e71[m
+Author: Vinícius Schmitz Freitas de Oliveira <116523244+ximit1912@users.noreply.github.com>
+Date:   Tue Aug 13 14:48:11 2024 -0300
+
+    Aplicação de base do professor e 1° versão
+    
+    Contém a funcionalidade de leitura por arquivo das sequências entre outras pequenas correções e melhorias
+
+[33mcommit 0ccd433dd51cfff390477446ec89a1bd269c0f27[m
+Author: Vinícius Schmitz Freitas de Oliveira <116523244+ximit1912@users.noreply.github.com>
+Date:   Tue Aug 13 14:42:21 2024 -0300
+
+    Update README.md
+
+[33mcommit 40a790bf9c7a84c35fd2fe5df0ec5f01cda28be0[m
+Author: Vinícius Schmitz Freitas de Oliveira <116523244+ximit1912@users.noreply.github.com>
+Date:   Tue Aug 13 14:41:49 2024 -0300
+
+    Create README.md
